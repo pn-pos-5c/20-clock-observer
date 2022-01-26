@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockObserver", "ClockObserver\ClockObserver.csproj", "{932C03E5-7393-4DB6-9E9E-265DE3B56BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932C03E5-7393-4DB6-9E9E-265DE3B56BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932C03E5-7393-4DB6-9E9E-265DE3B56BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932C03E5-7393-4DB6-9E9E-265DE3B56BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932C03E5-7393-4DB6-9E9E-265DE3B56BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D375E40-D5F9-45FA-A85F-9DDBA2EAB31A}
+	EndGlobalSection
+EndGlobal
